@@ -1,6 +1,5 @@
-### Welcome coming！ 👋
 
-
+<--
 **wuxin0011/wuxin0011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,6 +12,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+### 欢迎访问！ 👋
+
+ - [我的博客](https://wuxin0011.github.io)
 
 
 
