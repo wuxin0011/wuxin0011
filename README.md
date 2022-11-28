@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 
 ### 欢迎访问！ 👋
 
- - [我的博客](https://wuxin0011.github.io)
+ - [📫个人静态网址](https://wuxin0011.github.io)
+ - [⚡直播插件](https://greasyfork.org/zh-CN/scripts/449261-%E7%9B%B4%E6%92%AD%E6%8F%92%E4%BB%B6)
 
 
 
