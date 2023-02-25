@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <!-- 
 
-- ![😄 About me](https://wuxin0011.github.io/blog/about)
+[😄 About me](https://wuxin0011.github.io/blog/about)
 
 
 
