@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- 
+
+- ![😄 About me](https://wuxin0011.github.io/blog/about)
 
 
 
@@ -54,7 +57,7 @@ Here are some ideas to get you started:
 
 **其他**
 * 接触过[python](https://nodejs.org)，[Node.js](https://nodejs.org)
-* 对 C/C++，感兴趣，毕竟目前大部分语言都是工具都是基于C/C++开发的...
+* 对 C/C++，感兴趣，毕竟目前大部分语言都是工具都是基于C/C++开发的... -->
 
 
 
