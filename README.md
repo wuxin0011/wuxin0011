@@ -58,7 +58,14 @@ Here are some ideas to get you started:
 **其他**
 * 接触过[python](https://nodejs.org)，[Node.js](https://nodejs.org)
 * 对 C/C++，感兴趣，毕竟目前大部分语言都是工具都是基于C/C++开发的... -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"/>
+
+<script src="(https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js" crossorigin="anonymous"></script>
 
 [😄 About me](https://wuxin0011.github.io )
+
+
+<meting-js server="netease" type="song" id="436514312"  theme="#25CCF7" autoPlay="false"></meting-js>
 
 
