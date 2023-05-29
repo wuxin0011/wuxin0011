@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 * 对 C/C++，感兴趣，毕竟目前大部分语言都是工具都是基于C/C++开发的... -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"/>
 
-<script src="(https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js" crossorigin="anonymous"></script>
 
 [😄 About me](https://wuxin0011.github.io )
