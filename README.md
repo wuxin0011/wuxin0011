@@ -58,14 +58,11 @@ Here are some ideas to get you started:
 **其他**
 * 接触过[python](https://nodejs.org)，[Node.js](https://nodejs.org)
 * 对 C/C++，感兴趣，毕竟目前大部分语言都是工具都是基于C/C++开发的... -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"/>
 
-<script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js" crossorigin="anonymous"></script>
+[![Gitee](https://img.shields.io/static/v1?label=Github&message=me&color=lightgrey)](https://github.com/wuxin0011)[![Gitee](https://img.shields.io/static/v1?label=Gitee&message=me&color=red)](https://gitee.com/wuxin0011) [![Gitlab](https://img.shields.io/static/v1?label=Gitlab&message=me&color=yellowgreen)](https://gitlab.com/wuxin0011) [![email](https://img.shields.io/static/v1?label=QQ&message=email&color=blue)](mailto:2191377759@qq.com) [![discord](https://img.shields.io/static/v1?label=discord&message=chat&color=blueviolet)](https://discord.com/users/1108173972715081728) 
 
-[😄 About me](https://wuxin0011.github.io )
+[😄 blog ](https://wuxin0011.github.io )
 
 
-<meting-js server="netease" type="song" id="436514312"  theme="#25CCF7" autoPlay="false"></meting-js>
 
 
