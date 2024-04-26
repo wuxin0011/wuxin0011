@@ -22,7 +22,8 @@
 
 [😄blog](https://wuxin0011.github.io )
 
-
+### 🛠 tips
+![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wuxin0011&layout=compact&hide_border=true&langs_count=10)
 
 ### 🚀 Contribution
 
